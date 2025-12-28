@@ -7,11 +7,13 @@ description: >
 baseurl: ""
 url: "https://anuj-pandey.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
 
 author:
   name: "Anuj Pandey"
