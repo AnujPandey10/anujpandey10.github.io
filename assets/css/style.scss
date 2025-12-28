@@ -17,6 +17,7 @@
   --success-color: #28a745;
   --shadow: 0 2px 8px rgba(0,0,0,0.1);
   --shadow-hover: 0 4px 16px rgba(0,0,0,0.15);
+  --header-shadow: 0 1px 10px rgba(0,0,0,0.08);
 }
 
 /* Dark Theme Variables */
@@ -32,6 +33,7 @@
   --success-color: #4ade80;
   --shadow: 0 2px 8px rgba(0,0,0,0.5);
   --shadow-hover: 0 4px 16px rgba(0,0,0,0.7);
+  --header-shadow: 0 1px 10px rgba(0,0,0,0.55);
 }
 
 [data-theme="dark"] body {
@@ -84,6 +86,55 @@ body {
   line-height: 1.7;
   color: var(--text-color);
   font-size: 16px;
+}
+
+/* Header + Navigation (match the rest of the site styling) */
+.site-header {
+  background: var(--card-bg);
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: var(--header-shadow);
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--secondary-color);
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+  font-weight: 600;
+  padding: 8px 12px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.site-nav .page-link:hover {
+  background: var(--accent-color);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Keep the nav items aligned + readable (remove old gradient tricks) */
+.trigger {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  color: inherit;
+  background: transparent;
+}
+
+@media (max-width: 600px) {
+  .site-nav {
+    background: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+  }
+
+  .site-nav .page-link {
+    margin-left: 0 !important;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -564,41 +615,28 @@ pre {
   opacity: 1;
 }
 
-/* Navigation Trigger Styles */
-.trigger {
-  display: flex !important;
-  flex-wrap: wrap;
-  overflow: hidden;
-  box-sizing: border-box;
-  font-weight: 600;
-  color: transparent;
-  background-image: linear-gradient(90deg, rgba(17, 17, 17, 1) 24%, rgba(255, 255, 255, 1) 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  text-align: left;
-  background-color: rgba(255, 255, 255, 1);
-}
-
 /* Theme Toggle Button */
 .theme-toggle {
   position: fixed !important;
-  top: 20px !important;
-  right: 20px !important;
-  z-index: 9999 !important;
+  top: 16px !important;
+  right: 16px !important;
+  z-index: 10000 !important;
   background: var(--card-bg) !important;
   border: 2px solid var(--border-color) !important;
-  border-radius: 50% !important;
-  width: 50px !important;
-  height: 50px !important;
+  border-radius: 12px !important;
+  min-width: 56px !important;
+  height: 44px !important;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
   cursor: pointer !important;
   box-shadow: var(--shadow) !important;
   transition: all 0.3s ease !important;
-  font-size: 24px !important;
-  padding: 0 !important;
+  font-size: 16px !important;
+  padding: 0 12px !important;
   margin: 0 !important;
+  color: var(--text-color) !important;
+  line-height: 1 !important;
 }
 
 .theme-toggle:hover {
@@ -616,9 +654,9 @@ pre {
   .theme-toggle {
     top: 10px !important;
     right: 10px !important;
-    width: 45px !important;
-    height: 45px !important;
-    font-size: 20px !important;
+    min-width: 54px !important;
+    height: 42px !important;
+    font-size: 15px !important;
   }
 }
 
