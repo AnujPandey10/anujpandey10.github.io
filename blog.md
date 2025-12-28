@@ -53,45 +53,53 @@ permalink: /blog/
 
 <div class="card">
 
-### 🤖 AI & Machine Learning
-- Practical ML applications
-- Model validation and explainability
-- MLOps in pharma
-- Large Language Models
-- RAG systems
+<h3>🤖 AI & Machine Learning</h3>
+<ul>
+<li>Practical ML applications</li>
+<li>Model validation and explainability</li>
+<li>MLOps in pharma</li>
+<li>Large Language Models</li>
+<li>RAG systems</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 📊 Statistical Methods
-- Design of Experiments (DOE)
-- Multivariate analysis
-- Process capability
-- Statistical process control
-- Hypothesis testing
+<h3>📊 Statistical Methods</h3>
+<ul>
+<li>Design of Experiments (DOE)</li>
+<li>Multivariate analysis</li>
+<li>Process capability</li>
+<li>Statistical process control</li>
+<li>Hypothesis testing</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 🔬 Pharmaceutical Manufacturing
-- Bioprocess optimization
-- Insulin production
-- Process validation
-- Quality by Design
-- PAT implementation
+<h3>🔬 Pharmaceutical Manufacturing</h3>
+<ul>
+<li>Bioprocess optimization</li>
+<li>Insulin production</li>
+<li>Process validation</li>
+<li>Quality by Design</li>
+<li>PAT implementation</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 💡 Best Practices
-- Data science in regulated environments
-- Regulatory compliance
-- Cross-functional collaboration
-- Technical communication
-- Continuous improvement
+<h3>💡 Best Practices</h3>
+<ul>
+<li>Data science in regulated environments</li>
+<li>Regulatory compliance</li>
+<li>Cross-functional collaboration</li>
+<li>Technical communication</li>
+<li>Continuous improvement</li>
+</ul>
 
 </div>
 
@@ -104,25 +112,21 @@ permalink: /blog/
 <div class="project-grid">
 
 <div class="project-card">
-  <div class="icon">🔬</div>
   <h3>Case Studies</h3>
   <p>Real-world projects and their outcomes, lessons learned, and practical insights from pharmaceutical manufacturing.</p>
 </div>
 
 <div class="project-card">
-  <div class="icon">💡</div>
   <h3>Technical Deep Dives</h3>
   <p>In-depth explorations of specific methods, algorithms, or techniques applied to bioprocess challenges.</p>
 </div>
 
 <div class="project-card">
-  <div class="icon">📊</div>
   <h3>Methods & Tools</h3>
   <p>Guides, tutorials, and comparisons of statistical methods, ML algorithms, and software tools.</p>
 </div>
 
 <div class="project-card">
-  <div class="icon">🎯</div>
   <h3>Industry Perspectives</h3>
   <p>Thoughts on trends, challenges, and opportunities in pharmaceutical data science and AI.</p>
 </div>
@@ -135,12 +139,14 @@ permalink: /blog/
 
 <div class="section text-center">
 
-### New articles are published regularly covering practical data science applications in pharmaceutical manufacturing.
+<p>New articles are published regularly covering practical data science applications in pharmaceutical manufacturing.</p>
 
-**Ways to stay connected:**
-- Connect on [LinkedIn](https://www.linkedin.com/in/anuj-pandey9/) for article notifications
-- Follow on [GitHub](https://github.com/anuj-pandey) for code examples
-- Subscribe via RSS feed for automatic updates
+<p><strong>Ways to stay connected:</strong></p>
+<ul>
+<li>Connect on <a href="https://www.linkedin.com/in/anuj-pandey9/">LinkedIn</a> for article notifications</li>
+<li>Follow on <a href="https://github.com/anuj-pandey">GitHub</a> for code examples</li>
+<li>Subscribe via RSS feed for automatic updates</li>
+</ul>
 
 <div class="mt-2">
   <p><em>Turning complex topics into practical, actionable insights.</em></p>
@@ -154,20 +160,24 @@ permalink: /blog/
 
 <div class="card">
 
-My articles focus on:
+<p>My articles focus on:</p>
 
-**Practicality Over Theory** - Real-world applications with actual results  
-**Honesty About Challenges** - What worked, what didn't, and why  
-**Actionable Insights** - Takeaways you can apply to your own work  
-**Balanced Perspectives** - Acknowledging trade-offs and limitations  
-**Regulatory Awareness** - Compliance considerations for pharma environments  
+<ul>
+<li><strong>Practicality Over Theory</strong> - Real-world applications with actual results</li>
+<li><strong>Honesty About Challenges</strong> - What worked, what didn't, and why</li>
+<li><strong>Actionable Insights</strong> - Takeaways you can apply to your own work</li>
+<li><strong>Balanced Perspectives</strong> - Acknowledging trade-offs and limitations</li>
+<li><strong>Regulatory Awareness</strong> - Compliance considerations for pharma environments</li>
+</ul>
 
-I write for:
-- Data scientists working in pharmaceutical or regulated industries
-- Process engineers interested in analytics
-- Students exploring pharmaceutical data science
-- Managers evaluating AI/ML investments
-- Anyone curious about practical data science applications
+<p>I write for:</p>
+<ul>
+<li>Data scientists working in pharmaceutical or regulated industries</li>
+<li>Process engineers interested in analytics</li>
+<li>Students exploring pharmaceutical data science</li>
+<li>Managers evaluating AI/ML investments</li>
+<li>Anyone curious about practical data science applications</li>
+</ul>
 
 </div>
 

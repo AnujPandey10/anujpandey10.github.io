@@ -11,13 +11,15 @@ permalink: /about/
 
 ## 👨‍🔬 Who I Am
 
-I'm a **Data Scientist at Wockhardt Ltd.**, specializing in applying AI, machine learning, and computational biology to accelerate innovation in biotechnology and pharmaceutical research. My work sits at the fascinating intersection of **data science, biology, and pharmaceutical manufacturing**.
+<p>I'm a <strong>Data Scientist at Wockhardt Ltd.</strong>, specializing in applying AI, machine learning, and computational biology to accelerate innovation in biotechnology and pharmaceutical research. My work sits at the fascinating intersection of <strong>data science, biology, and pharmaceutical manufacturing</strong>.</p>
 
-With an **MTech from IIT Kharagpur** and hands-on experience in **pharmaceutical R&D environments**, I bring a unique perspective that combines:
-- Deep understanding of computational biology and bioprocess systems
-- Advanced machine learning and AI techniques (including LLMs)
-- Rigorous statistical methodology and Design of Experiments (DOE)
-- Practical application to biosimilar development and process optimization
+<p>With an <strong>MTech from IIT Kharagpur</strong> and hands-on experience in <strong>pharmaceutical R&D environments</strong>, I bring a unique perspective that combines:</p>
+<ul>
+<li>Deep understanding of computational biology and bioprocess systems</li>
+<li>Advanced machine learning and AI techniques (including LLMs)</li>
+<li>Rigorous statistical methodology and Design of Experiments (DOE)</li>
+<li>Practical application to biosimilar development and process optimization</li>
+</ul>
 
 ## 🎯 My Philosophy
 
@@ -27,11 +29,13 @@ I firmly believe that the most powerful data science solutions emerge when we:
 
 <div class="section">
 
-1. **Start with the Science**: Understanding the underlying biology and chemistry is non-negotiable
-2. **Apply Appropriate Methods**: DOE and statistical modeling before jumping to ML
-3. **Ensure Interpretability**: Models must be explainable, especially in regulated environments
-4. **Focus on Impact**: Technology should solve real problems, not just showcase capability
-5. **Maintain Rigor**: Every solution must meet regulatory standards and quality requirements
+<ol>
+<li><strong>Start with the Science</strong>: Understanding the underlying biology and chemistry is non-negotiable</li>
+<li><strong>Apply Appropriate Methods</strong>: DOE and statistical modeling before jumping to ML</li>
+<li><strong>Ensure Interpretability</strong>: Models must be explainable, especially in regulated environments</li>
+<li><strong>Focus on Impact</strong>: Technology should solve real problems, not just showcase capability</li>
+<li><strong>Maintain Rigor</strong>: Every solution must meet regulatory standards and quality requirements</li>
+</ol>
 
 </div>
 
@@ -41,49 +45,57 @@ I firmly believe that the most powerful data science solutions emerge when we:
 
 <div class="card">
 
-### 📊 Process Optimization
+<h3>📊 Process Optimization</h3>
 
-I design and analyze experiments (DOE) to optimize manufacturing processes, focusing on:
-- Improving product yield and quality
-- Reducing process variability
-- Understanding critical process parameters
-- Developing robust operating spaces
-
-</div>
-
-<div class="card">
-
-### 🤖 Predictive Modeling
-
-I build machine learning models that provide actionable insights:
-- Quality prediction and early warning systems
-- Process monitoring and anomaly detection
-- PK/PD outcome prediction
-- Equipment failure prediction
+<p>I design and analyze experiments (DOE) to optimize manufacturing processes, focusing on:</p>
+<ul>
+<li>Improving product yield and quality</li>
+<li>Reducing process variability</li>
+<li>Understanding critical process parameters</li>
+<li>Developing robust operating spaces</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 📚 Knowledge Management
+<h3>🤖 Predictive Modeling</h3>
 
-I develop AI-powered systems for manufacturing knowledge:
-- RAG-based SOP query systems
-- Manufacturing knowledge bases
-- Automated documentation analysis
-- Decision support tools
+<p>I build machine learning models that provide actionable insights:</p>
+<ul>
+<li>Quality prediction and early warning systems</li>
+<li>Process monitoring and anomaly detection</li>
+<li>PK/PD outcome prediction</li>
+<li>Equipment failure prediction</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 📈 Data Strategy
+<h3>📚 Knowledge Management</h3>
 
-I help organizations make better use of their data:
-- Data infrastructure design
-- Analytics capability building
-- Team training and mentoring
-- Best practices implementation
+<p>I develop AI-powered systems for manufacturing knowledge:</p>
+<ul>
+<li>RAG-based SOP query systems</li>
+<li>Manufacturing knowledge bases</li>
+<li>Automated documentation analysis</li>
+<li>Decision support tools</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h3>📈 Data Strategy</h3>
+
+<p>I help organizations make better use of their data:</p>
+<ul>
+<li>Data infrastructure design</li>
+<li>Analytics capability building</li>
+<li>Team training and mentoring</li>
+<li>Best practices implementation</li>
+</ul>
 
 </div>
 
@@ -93,92 +105,112 @@ I help organizations make better use of their data:
 
 <div class="section">
 
-### Regulatory-First Mindset
+<h3>Regulatory-First Mindset</h3>
 
-Working in pharmaceutical manufacturing means every model must be:
-- **Validated** according to regulatory standards
-- **Documented** with complete traceability
-- **Explainable** to auditors and stakeholders
-- **Robust** under diverse conditions
+<p>Working in pharmaceutical manufacturing means every model must be:</p>
+<ul>
+<li><strong>Validated</strong> according to regulatory standards</li>
+<li><strong>Documented</strong> with complete traceability</li>
+<li><strong>Explainable</strong> to auditors and stakeholders</li>
+<li><strong>Robust</strong> under diverse conditions</li>
+</ul>
 
-This isn't a constraint—it's a framework that ensures quality and reliability.
+<p>This isn't a constraint—it's a framework that ensures quality and reliability.</p>
 
-### Science-Driven Analytics
+<h3>Science-Driven Analytics</h3>
 
-I don't believe in black-box solutions. Every model I build:
-- Is grounded in process understanding
-- Uses features that make scientific sense
-- Provides interpretable outputs
-- Can be explained to non-technical stakeholders
+<p>I don't believe in black-box solutions. Every model I build:</p>
+<ul>
+<li>Is grounded in process understanding</li>
+<li>Uses features that make scientific sense</li>
+<li>Provides interpretable outputs</li>
+<li>Can be explained to non-technical stakeholders</li>
+</ul>
 
-### Practical Focus
+<h3>Practical Focus</h3>
 
-I care about solutions that:
-- Actually work in production environments
-- Can be maintained by the manufacturing team
-- Provide clear ROI
-- Integrate with existing systems
+<p>I care about solutions that:</p>
+<ul>
+<li>Actually work in production environments</li>
+<li>Can be maintained by the manufacturing team</li>
+<li>Provide clear ROI</li>
+<li>Integrate with existing systems</li>
+</ul>
 
 </div>
 
 ## 🎓 Background & Journey
 
-My journey into data science started with a strong **engineering foundation** and evolved into applying **AI and computational biology** to solve real pharmaceutical challenges.
+<p>My journey into data science started with a strong <strong>engineering foundation</strong> and evolved into applying <strong>AI and computational biology</strong> to solve real pharmaceutical challenges.</p>
 
-**Academic Foundation:**
-- **MTech from IIT Kharagpur** (2022-2024) - Advanced training in data science and machine learning
-- **BTech from SVP University** (2018-2022) - Engineering fundamentals with 8.24 CGPA
-- Active in NSS and NCC - Leadership and social service (3 years each)
+<p><strong>Academic Foundation:</strong></p>
+<ul>
+<li><strong>MTech from IIT Kharagpur</strong> (2022-2024) - Advanced training in data science and machine learning</li>
+<li><strong>BTech from SVP University</strong> (2018-2022) - Engineering fundamentals with 8.24 CGPA</li>
+<li>Active in NSS and NCC - Leadership and social service (3 years each)</li>
+</ul>
 
-**Professional Evolution:**
-- Started with **back-end development** internship at Wesoftek Solutions
-- Transitioned to **Data Science at Wockhardt Ltd.** (Nov 2024 - Present)
-- Leading initiatives in **AI-powered solutions** for pharmaceutical R&D
-- Applying **computational biology** to biosimilar development
-- Building **LLM-based systems** for knowledge management
+<p><strong>Professional Evolution:</strong></p>
+<ul>
+<li>Started with <strong>back-end development</strong> internship at Wesoftek Solutions</li>
+<li>Transitioned to <strong>Data Science at Wockhardt Ltd.</strong> (Nov 2024 - Present)</li>
+<li>Leading initiatives in <strong>AI-powered solutions</strong> for pharmaceutical R&D</li>
+<li>Applying <strong>computational biology</strong> to biosimilar development</li>
+<li>Building <strong>LLM-based systems</strong> for knowledge management</li>
+</ul>
 
-**Continuous Learning:**
-- Recently completed intensive **CBT Course Series at IIT Delhi** (2025)
-- Certified in **Machine Learning In Production** (DeepLearning.AI, Apr 2025)
-- **Google Data Analytics** certified (Dec 2024)
-- Active learner in biopharma digital transformation
-- Following latest developments in AI, ML, and computational biology
+<p><strong>Continuous Learning:</strong></p>
+<ul>
+<li>Recently completed intensive <strong>CBT Course Series at IIT Delhi</strong> (2025)</li>
+<li>Certified in <strong>Machine Learning In Production</strong> (DeepLearning.AI, Apr 2025)</li>
+<li><strong>Google Data Analytics</strong> certified (Dec 2024)</li>
+<li>Active learner in biopharma digital transformation</li>
+<li>Following latest developments in AI, ML, and computational biology</li>
+</ul>
 
 ## 💭 My Perspective on AI in Pharma
 
 <div class="section">
 
-AI and machine learning are **transformative tools**, but they're not magic:
+<p>AI and machine learning are <strong>transformative tools</strong>, but they're not magic:</p>
 
-**Where AI Excels:**
-- Pattern recognition in large datasets
-- Complex non-linear relationships
-- Predictive maintenance
-- Knowledge retrieval and synthesis
+<p><strong>Where AI Excels:</strong></p>
+<ul>
+<li>Pattern recognition in large datasets</li>
+<li>Complex non-linear relationships</li>
+<li>Predictive maintenance</li>
+<li>Knowledge retrieval and synthesis</li>
+</ul>
 
-**Where Traditional Methods Win:**
-- Small, designed experiments (DOE)
-- Causal inference
-- Regulatory submissions (often)
-- Clear, simple relationships
+<p><strong>Where Traditional Methods Win:</strong></p>
+<ul>
+<li>Small, designed experiments (DOE)</li>
+<li>Causal inference</li>
+<li>Regulatory submissions (often)</li>
+<li>Clear, simple relationships</li>
+</ul>
 
-**The Best Approach:**
-- Use both as complementary tools
-- Let the problem guide the method
-- Always validate and verify
-- Keep humans in the loop
+<p><strong>The Best Approach:</strong></p>
+<ul>
+<li>Use both as complementary tools</li>
+<li>Let the problem guide the method</li>
+<li>Always validate and verify</li>
+<li>Keep humans in the loop</li>
+</ul>
 
 </div>
 
 ## 🌱 Beyond Work
 
-When I'm not analyzing data or optimizing processes, I:
-- Play **badminton** (active during college years at IIT Kharagpur)
-- Stay curious about new technologies and methodologies in AI and biotech
-- Read about advances in computational biology and pharmaceutical innovation
-- Engage in **social service** - 3 years in NSS, 3 years as Senior Cadet in NCC
-- Enjoy sharing knowledge and connecting with professionals in the field
-- Follow thought leaders like Yann LeCun and industry innovators
+<p>When I'm not analyzing data or optimizing processes, I:</p>
+<ul>
+<li>Play <strong>badminton</strong> (active during college years at IIT Kharagpur)</li>
+<li>Stay curious about new technologies and methodologies in AI and biotech</li>
+<li>Read about advances in computational biology and pharmaceutical innovation</li>
+<li>Engage in <strong>social service</strong> - 3 years in NSS, 3 years as Senior Cadet in NCC</li>
+<li>Enjoy sharing knowledge and connecting with professionals in the field</li>
+<li>Follow thought leaders like Yann LeCun and industry innovators</li>
+</ul>
 
 ## 🤝 Let's Connect
 

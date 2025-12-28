@@ -15,17 +15,19 @@ permalink: /projects/
 
 <div class="card">
 
-### Challenge
-Insulin production processes exhibited significant batch-to-batch variability, impacting yield, quality, and manufacturing efficiency. The complexity of biological systems and numerous process parameters made optimization challenging using traditional trial-and-error approaches.
+<h3>Challenge</h3>
+<p>Insulin production processes exhibited significant batch-to-batch variability, impacting yield, quality, and manufacturing efficiency. The complexity of biological systems and numerous process parameters made optimization challenging using traditional trial-and-error approaches.</p>
 
-### Approach
-- **Statistical Analysis**: Conducted comprehensive analysis of 100+ historical manufacturing batches
-- **DOE Implementation**: Designed and executed factorial and response surface experiments
-- **Multivariate Modeling**: Applied PLS regression and multivariate analysis to identify critical parameters
-- **Process Optimization**: Developed predictive models to optimize operating conditions
-- **Validation**: Validated models through prospective manufacturing runs
+<h3>Approach</h3>
+<ul>
+<li><strong>Statistical Analysis</strong>: Conducted comprehensive analysis of 100+ historical manufacturing batches</li>
+<li><strong>DOE Implementation</strong>: Designed and executed factorial and response surface experiments</li>
+<li><strong>Multivariate Modeling</strong>: Applied PLS regression and multivariate analysis to identify critical parameters</li>
+<li><strong>Process Optimization</strong>: Developed predictive models to optimize operating conditions</li>
+<li><strong>Validation</strong>: Validated models through prospective manufacturing runs</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">Python</span>
   <span class="badge">JMP Pro</span>
@@ -36,15 +38,17 @@ Insulin production processes exhibited significant batch-to-batch variability, i
   <span class="badge">PLS Regression</span>
 </div>
 
-### Results & Impact
-- ✅ **15% improvement** in average insulin yield
-- ✅ **40% reduction** in batch-to-batch variability
-- ✅ **Identified 5 critical process parameters** driving quality
-- ✅ **Established robust operating space** meeting regulatory requirements
-- ✅ **Annual savings** of $2M+ through improved yield
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>15% improvement</strong> in average insulin yield</li>
+<li>✅ <strong>40% reduction</strong> in batch-to-batch variability</li>
+<li>✅ <strong>Identified 5 critical process parameters</strong> driving quality</li>
+<li>✅ <strong>Established robust operating space</strong> meeting regulatory requirements</li>
+<li>✅ <strong>Annual savings</strong> of $2M+ through improved yield</li>
+</ul>
 
-### Key Learnings
-This project reinforced that **process understanding is paramount**. By combining domain knowledge with statistical rigor, we achieved sustainable improvements that pure data-mining approaches would have missed.
+<h3>Key Learnings</h3>
+<p>This project reinforced that <strong>process understanding is paramount</strong>. By combining domain knowledge with statistical rigor, we achieved sustainable improvements that pure data-mining approaches would have missed.</p>
 
 </div>
 
@@ -54,22 +58,26 @@ This project reinforced that **process understanding is paramount**. By combinin
 
 <div class="card">
 
-### Challenge
-Manufacturing teams struggled to quickly find relevant information across hundreds of SOPs, batch records, and technical documents. Critical knowledge was siloed, leading to:
-- Extended decision-making times during manufacturing issues
-- Inconsistent application of best practices
-- Training challenges for new team members
-- Repeated questions to subject matter experts
+<h3>Challenge</h3>
+<p>Manufacturing teams struggled to quickly find relevant information across hundreds of SOPs, batch records, and technical documents. Critical knowledge was siloed, leading to:</p>
+<ul>
+<li>Extended decision-making times during manufacturing issues</li>
+<li>Inconsistent application of best practices</li>
+<li>Training challenges for new team members</li>
+<li>Repeated questions to subject matter experts</li>
+</ul>
 
-### Solution Architecture
-Built a Retrieval-Augmented Generation (RAG) system combining:
-- **Document Processing**: Automated ingestion and parsing of SOPs, batch records, and technical documents
-- **Vector Database**: Embedded 500+ documents using state-of-the-art models
-- **Local LLM**: Deployed LLaMA-based model for secure, on-premise inference
-- **Query Interface**: User-friendly web interface with citation tracking
-- **Continuous Learning**: Feedback mechanism to improve relevance
+<h3>Solution Architecture</h3>
+<p>Built a Retrieval-Augmented Generation (RAG) system combining:</p>
+<ul>
+<li><strong>Document Processing</strong>: Automated ingestion and parsing of SOPs, batch records, and technical documents</li>
+<li><strong>Vector Database</strong>: Embedded 500+ documents using state-of-the-art models</li>
+<li><strong>Local LLM</strong>: Deployed LLaMA-based model for secure, on-premise inference</li>
+<li><strong>Query Interface</strong>: User-friendly web interface with citation tracking</li>
+<li><strong>Continuous Learning</strong>: Feedback mechanism to improve relevance</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">LLaMA 2</span>
   <span class="badge">Python</span>
@@ -80,24 +88,30 @@ Built a Retrieval-Augmented Generation (RAG) system combining:
   <span class="badge">Sentence Transformers</span>
 </div>
 
-### Results & Impact
-- ✅ **Reduced information retrieval time** from hours to seconds
-- ✅ **90% accuracy** in answering manufacturing questions
-- ✅ **500+ daily queries** from manufacturing team
-- ✅ **Accelerated training** for 20+ new employees
-- ✅ **Full traceability** with source document citations
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>Reduced information retrieval time</strong> from hours to seconds</li>
+<li>✅ <strong>90% accuracy</strong> in answering manufacturing questions</li>
+<li>✅ <strong>500+ daily queries</strong> from manufacturing team</li>
+<li>✅ <strong>Accelerated training</strong> for 20+ new employees</li>
+<li>✅ <strong>Full traceability</strong> with source document citations</li>
+</ul>
 
-### Technical Highlights
-- Implemented **semantic chunking** for optimal context windows
-- Developed **custom relevance scoring** for pharmaceutical content
-- Ensured **GxP compliance** with complete audit trails
-- Achieved **sub-2-second response times** on standard hardware
+<h3>Technical Highlights</h3>
+<ul>
+<li>Implemented <strong>semantic chunking</strong> for optimal context windows</li>
+<li>Developed <strong>custom relevance scoring</strong> for pharmaceutical content</li>
+<li>Ensured <strong>GxP compliance</strong> with complete audit trails</li>
+<li>Achieved <strong>sub-2-second response times</strong> on standard hardware</li>
+</ul>
 
-### Validation & Compliance
-- Comprehensive validation package for GxP compliance
-- User acceptance testing with 50+ manufacturing personnel
-- Security assessment for data protection
-- Regular accuracy monitoring and model updates
+<h3>Validation & Compliance</h3>
+<ul>
+<li>Comprehensive validation package for GxP compliance</li>
+<li>User acceptance testing with 50+ manufacturing personnel</li>
+<li>Security assessment for data protection</li>
+<li>Regular accuracy monitoring and model updates</li>
+</ul>
 
 </div>
 
@@ -107,17 +121,19 @@ Built a Retrieval-Augmented Generation (RAG) system combining:
 
 <div class="card">
 
-### Challenge
-Late-stage failures in PK/PD studies were costly and time-consuming. Early prediction of study outcomes based on formulation characteristics could save millions in development costs and accelerate time-to-market.
+<h3>Challenge</h3>
+<p>Late-stage failures in PK/PD studies were costly and time-consuming. Early prediction of study outcomes based on formulation characteristics could save millions in development costs and accelerate time-to-market.</p>
 
-### Approach
-- **Data Integration**: Combined particle size distribution data, formulation parameters, and historical study results
-- **Feature Engineering**: Created meaningful features capturing distribution characteristics
-- **Model Development**: Evaluated multiple algorithms (GLM, Random Forest, XGBoost)
-- **Interpretability Analysis**: Applied SHAP values to understand key drivers
-- **Cross-Validation**: Rigorous validation using temporal splits and bootstrapping
+<h3>Approach</h3>
+<ul>
+<li><strong>Data Integration</strong>: Combined particle size distribution data, formulation parameters, and historical study results</li>
+<li><strong>Feature Engineering</strong>: Created meaningful features capturing distribution characteristics</li>
+<li><strong>Model Development</strong>: Evaluated multiple algorithms (GLM, Random Forest, XGBoost)</li>
+<li><strong>Interpretability Analysis</strong>: Applied SHAP values to understand key drivers</li>
+<li><strong>Cross-Validation</strong>: Rigorous validation using temporal splits and bootstrapping</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">Python</span>
   <span class="badge">Scikit-learn</span>
@@ -128,19 +144,23 @@ Late-stage failures in PK/PD studies were costly and time-consuming. Early predi
   <span class="badge">Plotly</span>
 </div>
 
-### Results & Impact
-- ✅ **85% accuracy** in predicting PK/PD study outcomes
-- ✅ **Prevented 3 late-stage failures** in first year
-- ✅ **Saved $5M+** in avoided study costs
-- ✅ **Reduced development timeline** by 6 months for 2 products
-- ✅ **Identified optimal particle size ranges** for different formulations
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>85% accuracy</strong> in predicting PK/PD study outcomes</li>
+<li>✅ <strong>Prevented 3 late-stage failures</strong> in first year</li>
+<li>✅ <strong>Saved $5M+</strong> in avoided study costs</li>
+<li>✅ <strong>Reduced development timeline</strong> by 6 months for 2 products</li>
+<li>✅ <strong>Identified optimal particle size ranges</strong> for different formulations</li>
+</ul>
 
-### Model Insights
-SHAP analysis revealed:
-- D50 and D90 particle size parameters as primary drivers
-- Non-linear relationship between size distribution and bioavailability
-- Critical interaction between particle size and formulation excipients
-- Threshold effects requiring process control strategies
+<h3>Model Insights</h3>
+<p>SHAP analysis revealed:</p>
+<ul>
+<li>D50 and D90 particle size parameters as primary drivers</li>
+<li>Non-linear relationship between size distribution and bioavailability</li>
+<li>Critical interaction between particle size and formulation excipients</li>
+<li>Threshold effects requiring process control strategies</li>
+</ul>
 
 </div>
 
@@ -150,17 +170,19 @@ SHAP analysis revealed:
 
 <div class="card">
 
-### Challenge
-Traditional end-of-batch quality testing meant defects were discovered too late, resulting in batch failures and resource waste. The goal was to develop an early warning system for process deviations.
+<h3>Challenge</h3>
+<p>Traditional end-of-batch quality testing meant defects were discovered too late, resulting in batch failures and resource waste. The goal was to develop an early warning system for process deviations.</p>
 
-### Solution
-- **Sensor Integration**: Connected 50+ process sensors (temperature, pH, pressure, flow rates)
-- **Feature Engineering**: Created derived features capturing process dynamics
-- **Anomaly Detection**: Implemented multivariate statistical process control
-- **ML Models**: Developed predictive models for quality attributes
-- **Dashboard**: Real-time visualization and alerting system
+<h3>Solution</h3>
+<ul>
+<li><strong>Sensor Integration</strong>: Connected 50+ process sensors (temperature, pH, pressure, flow rates)</li>
+<li><strong>Feature Engineering</strong>: Created derived features capturing process dynamics</li>
+<li><strong>Anomaly Detection</strong>: Implemented multivariate statistical process control</li>
+<li><strong>ML Models</strong>: Developed predictive models for quality attributes</li>
+<li><strong>Dashboard</strong>: Real-time visualization and alerting system</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">Python</span>
   <span class="badge">TensorFlow</span>
@@ -171,12 +193,14 @@ Traditional end-of-batch quality testing meant defects were discovered too late,
   <span class="badge">MSPC</span>
 </div>
 
-### Results & Impact
-- ✅ **Reduced batch failures** by 60%
-- ✅ **Early detection** of deviations 4-6 hours before quality impact
-- ✅ **Saved $3M annually** through reduced waste
-- ✅ **Improved process understanding** across manufacturing team
-- ✅ **Enabled proactive interventions** before quality impact
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>Reduced batch failures</strong> by 60%</li>
+<li>✅ <strong>Early detection</strong> of deviations 4-6 hours before quality impact</li>
+<li>✅ <strong>Saved $3M annually</strong> through reduced waste</li>
+<li>✅ <strong>Improved process understanding</strong> across manufacturing team</li>
+<li>✅ <strong>Enabled proactive interventions</strong> before quality impact</li>
+</ul>
 
 </div>
 
@@ -186,17 +210,19 @@ Traditional end-of-batch quality testing meant defects were discovered too late,
 
 <div class="card">
 
-### Challenge
-Several critical process parameters had Cpk values below 1.33, indicating insufficient process capability and regulatory risk. Systematic improvement was needed.
+<h3>Challenge</h3>
+<p>Several critical process parameters had Cpk values below 1.33, indicating insufficient process capability and regulatory risk. Systematic improvement was needed.</p>
 
-### Methodology
-- **Capability Analysis**: Established baseline metrics for 20+ critical parameters
-- **Root Cause Analysis**: Used statistical tools to identify sources of variation
-- **DOE Studies**: Designed experiments to optimize parameter settings
-- **Control Plans**: Implemented enhanced process controls
-- **Continuous Monitoring**: Established SPC systems for sustainability
+<h3>Methodology</h3>
+<ul>
+<li><strong>Capability Analysis</strong>: Established baseline metrics for 20+ critical parameters</li>
+<li><strong>Root Cause Analysis</strong>: Used statistical tools to identify sources of variation</li>
+<li><strong>DOE Studies</strong>: Designed experiments to optimize parameter settings</li>
+<li><strong>Control Plans</strong>: Implemented enhanced process controls</li>
+<li><strong>Continuous Monitoring</strong>: Established SPC systems for sustainability</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">JMP</span>
   <span class="badge">Minitab</span>
@@ -205,12 +231,14 @@ Several critical process parameters had Cpk values below 1.33, indicating insuff
   <span class="badge">Six Sigma</span>
 </div>
 
-### Results & Impact
-- ✅ **Improved average Cpk** from 1.1 to 1.8
-- ✅ **Achieved Cpk > 1.33** for all critical parameters
-- ✅ **Reduced process variation** by 45%
-- ✅ **Zero regulatory observations** in subsequent inspections
-- ✅ **Enhanced product consistency** and reliability
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>Improved average Cpk</strong> from 1.1 to 1.8</li>
+<li>✅ <strong>Achieved Cpk > 1.33</strong> for all critical parameters</li>
+<li>✅ <strong>Reduced process variation</strong> by 45%</li>
+<li>✅ <strong>Zero regulatory observations</strong> in subsequent inspections</li>
+<li>✅ <strong>Enhanced product consistency</strong> and reliability</li>
+</ul>
 
 </div>
 
@@ -220,17 +248,19 @@ Several critical process parameters had Cpk values below 1.33, indicating insuff
 
 <div class="card">
 
-### Challenge
-Cell culture processes for recombinant protein production required optimization to improve productivity while maintaining product quality attributes.
+<h3>Challenge</h3>
+<p>Cell culture processes for recombinant protein production required optimization to improve productivity while maintaining product quality attributes.</p>
 
-### Approach
-- **Historical Analysis**: Analyzed 80+ cell culture runs
-- **Factorial Design**: Executed 2-level factorial experiments
-- **Response Surface**: Optimized using central composite design
-- **Metabolic Profiling**: Integrated metabolite data with productivity
-- **Scale-Up Validation**: Confirmed results at production scale
+<h3>Approach</h3>
+<ul>
+<li><strong>Historical Analysis</strong>: Analyzed 80+ cell culture runs</li>
+<li><strong>Factorial Design</strong>: Executed 2-level factorial experiments</li>
+<li><strong>Response Surface</strong>: Optimized using central composite design</li>
+<li><strong>Metabolic Profiling</strong>: Integrated metabolite data with productivity</li>
+<li><strong>Scale-Up Validation</strong>: Confirmed results at production scale</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">Python</span>
   <span class="badge">R</span>
@@ -239,12 +269,14 @@ Cell culture processes for recombinant protein production required optimization 
   <span class="badge">RSM</span>
 </div>
 
-### Results & Impact
-- ✅ **25% increase** in cell density
-- ✅ **30% improvement** in specific productivity
-- ✅ **Maintained product quality** attributes within specs
-- ✅ **Reduced culture duration** by 2 days
-- ✅ **Annual capacity increase** equivalent to new production line
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>25% increase</strong> in cell density</li>
+<li>✅ <strong>30% improvement</strong> in specific productivity</li>
+<li>✅ <strong>Maintained product quality</strong> attributes within specs</li>
+<li>✅ <strong>Reduced culture duration</strong> by 2 days</li>
+<li>✅ <strong>Annual capacity increase</strong> equivalent to new production line</li>
+</ul>
 
 </div>
 
@@ -254,17 +286,19 @@ Cell culture processes for recombinant protein production required optimization 
 
 <div class="card">
 
-### Challenge
-Growing number of ML models required systematic approach to deployment, monitoring, and maintenance. Lack of infrastructure was creating technical debt and sustainability issues.
+<h3>Challenge</h3>
+<p>Growing number of ML models required systematic approach to deployment, monitoring, and maintenance. Lack of infrastructure was creating technical debt and sustainability issues.</p>
 
-### Solution
-- **Data Pipeline**: Automated ETL processes for manufacturing data
-- **Model Registry**: Centralized repository for model versioning
-- **Deployment Framework**: Containerized deployment with CI/CD
-- **Monitoring System**: Real-time model performance tracking
-- **Governance**: Established validation and change control procedures
+<h3>Solution</h3>
+<ul>
+<li><strong>Data Pipeline</strong>: Automated ETL processes for manufacturing data</li>
+<li><strong>Model Registry</strong>: Centralized repository for model versioning</li>
+<li><strong>Deployment Framework</strong>: Containerized deployment with CI/CD</li>
+<li><strong>Monitoring System</strong>: Real-time model performance tracking</li>
+<li><strong>Governance</strong>: Established validation and change control procedures</li>
+</ul>
 
-### Technologies Used
+<h3>Technologies Used</h3>
 <div class="tech-stack">
   <span class="badge">Python</span>
   <span class="badge">Docker</span>
@@ -275,12 +309,14 @@ Growing number of ML models required systematic approach to deployment, monitori
   <span class="badge">PostgreSQL</span>
 </div>
 
-### Results & Impact
-- ✅ **Deployed 15+ models** into production
-- ✅ **Reduced deployment time** from weeks to days
-- ✅ **Automated retraining** pipelines for 8 models
-- ✅ **Established validation framework** for GxP compliance
-- ✅ **Enabled data science team** to focus on value creation
+<h3>Results & Impact</h3>
+<ul>
+<li>✅ <strong>Deployed 15+ models</strong> into production</li>
+<li>✅ <strong>Reduced deployment time</strong> from weeks to days</li>
+<li>✅ <strong>Automated retraining</strong> pipelines for 8 models</li>
+<li>✅ <strong>Established validation framework</strong> for GxP compliance</li>
+<li>✅ <strong>Enabled data science team</strong> to focus on value creation</li>
+</ul>
 
 </div>
 
@@ -292,28 +328,28 @@ Growing number of ML models required systematic approach to deployment, monitori
 
 <div class="card">
 
-### Digital Twin Development
-Building a digital twin of insulin manufacturing process for scenario testing and optimization without physical experimentation.
+<h3>Digital Twin Development</h3>
+<p>Building a digital twin of insulin manufacturing process for scenario testing and optimization without physical experimentation.</p>
 
-<span class="badge">In Progress</span>
-
-</div>
-
-<div class="card">
-
-### Automated Batch Release
-AI-assisted system for batch release decisions, combining quality data with statistical models.
-
-<span class="badge">Planning</span>
+<p><span class="badge">In Progress</span></p>
 
 </div>
 
 <div class="card">
 
-### Supply Chain Optimization
-ML-based demand forecasting and inventory optimization for pharmaceutical manufacturing.
+<h3>Automated Batch Release</h3>
+<p>AI-assisted system for batch release decisions, combining quality data with statistical models.</p>
 
-<span class="badge">Planning</span>
+<p><span class="badge">Planning</span></p>
+
+</div>
+
+<div class="card">
+
+<h3>Supply Chain Optimization</h3>
+<p>ML-based demand forecasting and inventory optimization for pharmaceutical manufacturing.</p>
+
+<p><span class="badge">Planning</span></p>
 
 </div>
 

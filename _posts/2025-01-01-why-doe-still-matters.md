@@ -24,63 +24,73 @@ Here's why.
 
 <div class="section">
 
-### 1. **Interpretability and Understanding**
+<h3>1. Interpretability and Understanding</h3>
 
-DOE forces you to think about **causality**, not just correlation. When you design an experiment:
-- You explicitly define which factors you're testing
-- You control for confounding variables
-- You understand the mechanism behind changes
-- You can explain results to regulators and stakeholders
+<p>DOE forces you to think about <strong>causality</strong>, not just correlation. When you design an experiment:</p>
+<ul>
+<li>You explicitly define which factors you're testing</li>
+<li>You control for confounding variables</li>
+<li>You understand the mechanism behind changes</li>
+<li>You can explain results to regulators and stakeholders</li>
+</ul>
 
-**Example from my work:**  
-When optimizing insulin production, we needed to understand the relationship between pH control strategy and product quality. A DOE factorial design revealed that the *timing* of pH adjustments mattered more than the final pH value—something that would be difficult to discover from observational data alone.
-
-</div>
-
-<div class="section">
-
-### 2. **Controlled Experimentation**
-
-In biological systems, **controlling variables is critical**. DOE provides:
-- Randomization to eliminate bias
-- Replication for statistical validity
-- Orthogonal designs for clean factor effects
-- Blocking strategies for nuisance variables
-
-ML models trained on historical data often can't distinguish between:
-- True causal relationships
-- Spurious correlations
-- Process drifts over time
-- Operator or equipment effects
+<p><strong>Example from my work:</strong><br>
+When optimizing insulin production, we needed to understand the relationship between pH control strategy and product quality. A DOE factorial design revealed that the <em>timing</em> of pH adjustments mattered more than the final pH value—something that would be difficult to discover from observational data alone.</p>
 
 </div>
 
 <div class="section">
 
-### 3. **Regulatory Confidence**
+<h3>2. Controlled Experimentation</h3>
 
-Regulatory agencies (FDA, EMA, etc.) have decades of experience with DOE. They understand:
-- Statistical power calculations
-- Risk-based experimental design
-- Quality by Design (QbD) principles
-- Process validation requirements
+<p>In biological systems, <strong>controlling variables is critical</strong>. DOE provides:</p>
+<ul>
+<li>Randomization to eliminate bias</li>
+<li>Replication for statistical validity</li>
+<li>Orthogonal designs for clean factor effects</li>
+<li>Blocking strategies for nuisance variables</li>
+</ul>
 
-When you submit a regulatory filing based on DOE studies, reviewers know how to evaluate your conclusions. ML models, while increasingly accepted, still face more scrutiny and require extensive validation.
+<p>ML models trained on historical data often can't distinguish between:</p>
+<ul>
+<li>True causal relationships</li>
+<li>Spurious correlations</li>
+<li>Process drifts over time</li>
+<li>Operator or equipment effects</li>
+</ul>
 
 </div>
 
 <div class="section">
 
-### 4. **Efficiency with Limited Data**
+<h3>3. Regulatory Confidence</h3>
 
-Here's a reality in pharmaceutical manufacturing: **you often can't run hundreds of experiments**. Each manufacturing batch is expensive and time-consuming.
+<p>Regulatory agencies (FDA, EMA, etc.) have decades of experience with DOE. They understand:</p>
+<ul>
+<li>Statistical power calculations</li>
+<li>Risk-based experimental design</li>
+<li>Quality by Design (QbD) principles</li>
+<li>Process validation requirements</li>
+</ul>
 
-DOE maximizes information per experiment through:
-- Factorial designs testing multiple factors simultaneously
-- Response surface methods finding optimal conditions efficiently
-- Fractional factorial designs for screening many factors quickly
+<p>When you submit a regulatory filing based on DOE studies, reviewers know how to evaluate your conclusions. ML models, while increasingly accepted, still face more scrutiny and require extensive validation.</p>
 
-I've seen DOE identify optimal conditions in 12-20 runs that would have taken 100+ runs with traditional one-factor-at-a-time approaches.
+</div>
+
+<div class="section">
+
+<h3>4. Efficiency with Limited Data</h3>
+
+<p>Here's a reality in pharmaceutical manufacturing: <strong>you often can't run hundreds of experiments</strong>. Each manufacturing batch is expensive and time-consuming.</p>
+
+<p>DOE maximizes information per experiment through:</p>
+<ul>
+<li>Factorial designs testing multiple factors simultaneously</li>
+<li>Response surface methods finding optimal conditions efficiently</li>
+<li>Fractional factorial designs for screening many factors quickly</li>
+</ul>
+
+<p>I've seen DOE identify optimal conditions in 12-20 runs that would have taken 100+ runs with traditional one-factor-at-a-time approaches.</p>
 
 </div>
 
@@ -146,15 +156,13 @@ In my experience, the most powerful approach combines both:
 
 <div class="section">
 
-1. **DOE is NOT obsolete** - It remains the gold standard for understanding causal relationships in complex systems
-
-2. **ML is NOT a replacement** - It's a complementary tool that works best when combined with proper experimental design
-
-3. **Start with DOE** - Establish understanding first, then enhance with ML for prediction and monitoring
-
-4. **Interpretability matters** - Especially in regulated environments, being able to explain *why* matters as much as *what*
-
-5. **Use the right tool for the job** - Small experiments? Use DOE. Big data? Use ML. Complex problems? Use both.
+<ol>
+<li><strong>DOE is NOT obsolete</strong> - It remains the gold standard for understanding causal relationships in complex systems</li>
+<li><strong>ML is NOT a replacement</strong> - It's a complementary tool that works best when combined with proper experimental design</li>
+<li><strong>Start with DOE</strong> - Establish understanding first, then enhance with ML for prediction and monitoring</li>
+<li><strong>Interpretability matters</strong> - Especially in regulated environments, being able to explain <em>why</em> matters as much as <em>what</em></li>
+<li><strong>Use the right tool for the job</strong> - Small experiments? Use DOE. Big data? Use ML. Complex problems? Use both.</li>
+</ol>
 
 </div>
 

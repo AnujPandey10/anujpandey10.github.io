@@ -23,21 +23,18 @@ permalink: /contact/
 <div class="contact-grid">
 
 <div class="contact-card">
-  <div class="icon">💼</div>
   <h3>LinkedIn</h3>
   <p>Connect with me professionally</p>
   <a href="https://www.linkedin.com/in/anuj-pandey9/" target="_blank">linkedin.com/in/anuj-pandey9</a>
 </div>
 
 <div class="contact-card">
-  <div class="icon">💻</div>
   <h3>GitHub</h3>
   <p>Check out my code and projects</p>
   <a href="https://github.com/anuj-pandey" target="_blank">github.com/anuj-pandey</a>
 </div>
 
 <div class="contact-card">
-  <div class="icon">✉️</div>
   <h3>Email</h3>
   <p>Send me a direct message</p>
   <a href="mailto:anujpandey@email.com">anujpandey@email.com</a>
@@ -53,48 +50,56 @@ permalink: /contact/
 
 <div class="card">
 
-### 🤝 Collaboration Opportunities
+<h3>🤝 Collaboration Opportunities</h3>
 
-- Joint research projects in pharmaceutical AI
-- Industry-academic partnerships
-- Open-source contributions
-- Conference presentations and workshops
-
-</div>
-
-<div class="card">
-
-### 💡 Discussion Topics
-
-- AI/ML in pharmaceutical manufacturing
-- Design of Experiments methodologies
-- Explainable AI for regulated environments
-- Process optimization challenges
-- Knowledge management systems
+<ul>
+<li>Joint research projects in pharmaceutical AI</li>
+<li>Industry-academic partnerships</li>
+<li>Open-source contributions</li>
+<li>Conference presentations and workshops</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 🎓 Knowledge Sharing
+<h3>💡 Discussion Topics</h3>
 
-- Mentoring data scientists
-- Technical writing and blogging
-- Speaking at conferences and meetups
-- Guest lectures and workshops
-- Industry best practices
+<ul>
+<li>AI/ML in pharmaceutical manufacturing</li>
+<li>Design of Experiments methodologies</li>
+<li>Explainable AI for regulated environments</li>
+<li>Process optimization challenges</li>
+<li>Knowledge management systems</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-### 🔬 Problem Solving
+<h3>🎓 Knowledge Sharing</h3>
 
-- Complex bioprocess challenges
-- Statistical modeling questions
-- ML model validation approaches
-- Regulatory compliance strategies
-- Data infrastructure design
+<ul>
+<li>Mentoring data scientists</li>
+<li>Technical writing and blogging</li>
+<li>Speaking at conferences and meetups</li>
+<li>Guest lectures and workshops</li>
+<li>Industry best practices</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h3>🔬 Problem Solving</h3>
+
+<ul>
+<li>Complex bioprocess challenges</li>
+<li>Statistical modeling questions</li>
+<li>ML model validation approaches</li>
+<li>Regulatory compliance strategies</li>
+<li>Data infrastructure design</li>
+</ul>
 
 </div>
 
@@ -108,8 +113,8 @@ permalink: /contact/
 
 <div class="card">
 
-### For Professional Networking
-**LinkedIn** is the best platform for professional connections, discussing industry topics, and exploring collaboration opportunities.
+<h3>For Professional Networking</h3>
+<p><strong>LinkedIn</strong> is the best platform for professional connections, discussing industry topics, and exploring collaboration opportunities.</p>
 
 <a href="https://www.linkedin.com/in/anuj-pandey9/" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0077B5; color: white; text-decoration: none; border-radius: 5px; margin-top: 10px;">Connect on LinkedIn</a>
 
@@ -117,8 +122,8 @@ permalink: /contact/
 
 <div class="card">
 
-### For Technical Discussions
-**GitHub** is perfect if you want to discuss code, review projects, or collaborate on open-source work.
+<h3>For Technical Discussions</h3>
+<p><strong>GitHub</strong> is perfect if you want to discuss code, review projects, or collaborate on open-source work.</p>
 
 <a href="https://github.com/anuj-pandey" target="_blank" style="display: inline-block; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 5px; margin-top: 10px;">Follow on GitHub</a>
 
@@ -126,8 +131,8 @@ permalink: /contact/
 
 <div class="card">
 
-### For Direct Communication
-**Email** is best for detailed inquiries, collaboration proposals, or speaking engagements.
+<h3>For Direct Communication</h3>
+<p><strong>Email</strong> is best for detailed inquiries, collaboration proposals, or speaking engagements.</p>
 
 <a href="mailto:anujpandey@email.com" style="display: inline-block; padding: 10px 20px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 5px; margin-top: 10px;">Send Email</a>
 
@@ -141,12 +146,14 @@ permalink: /contact/
 
 <div class="section">
 
-I typically respond to:
-- **LinkedIn messages**: Within 1-2 business days
-- **GitHub issues/PRs**: Within 2-3 days
-- **Email inquiries**: Within 2-3 business days
+<p>I typically respond to:</p>
+<ul>
+<li><strong>LinkedIn messages</strong>: Within 1-2 business days</li>
+<li><strong>GitHub issues/PRs</strong>: Within 2-3 days</li>
+<li><strong>Email inquiries</strong>: Within 2-3 business days</li>
+</ul>
 
-For urgent matters, please indicate the urgency in your message subject line.
+<p>For urgent matters, please indicate the urgency in your message subject line.</p>
 
 </div>
 
@@ -156,9 +163,9 @@ For urgent matters, please indicate the urgency in your message subject line.
 
 <div class="card text-center">
 
-**Based in:** Pharmaceutical Industry Hub  
-**Open to:** Remote collaborations, virtual meetings, and selective on-site consultations  
-**Time Zone:** Please mention your time zone when scheduling calls
+<p><strong>Based in:</strong> Pharmaceutical Industry Hub</p>
+<p><strong>Open to:</strong> Remote collaborations, virtual meetings, and selective on-site consultations</p>
+<p><strong>Time Zone:</strong> Please mention your time zone when scheduling calls</p>
 
 </div>
 
@@ -168,19 +175,23 @@ For urgent matters, please indicate the urgency in your message subject line.
 
 <div class="section">
 
-To help me respond more effectively, please include:
+<p>To help me respond more effectively, please include:</p>
 
-✅ **Your background** - Brief introduction about yourself  
-✅ **Your interest** - What you'd like to discuss or collaborate on  
-✅ **Specific questions** - Any particular topics or challenges  
-✅ **Timeline** - If you have specific deadlines or timeframes  
+<ul>
+<li>✅ <strong>Your background</strong> - Brief introduction about yourself</li>
+<li>✅ <strong>Your interest</strong> - What you'd like to discuss or collaborate on</li>
+<li>✅ <strong>Specific questions</strong> - Any particular topics or challenges</li>
+<li>✅ <strong>Timeline</strong> - If you have specific deadlines or timeframes</li>
+</ul>
 
-I welcome messages from:
-- Fellow data scientists and engineers
-- Pharmaceutical industry professionals
-- Researchers and academics
-- Students seeking guidance
-- Organizations exploring collaborations
+<p>I welcome messages from:</p>
+<ul>
+<li>Fellow data scientists and engineers</li>
+<li>Pharmaceutical industry professionals</li>
+<li>Researchers and academics</li>
+<li>Students seeking guidance</li>
+<li>Organizations exploring collaborations</li>
+</ul>
 
 </div>
 

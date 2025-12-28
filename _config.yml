@@ -10,9 +10,11 @@ url: "https://anujpandey10.github.io"
 baseurl: ""
 
 # Author Information
-author:
-  name: "Anuj Pandey"
-  email: "anujpandey@email.com"
+author: "Anuj Pandey"
+email: "anujpandey@email.com"
+
+# Additional Author Details
+author_details:
   linkedin: "anuj-pandey9"
   github: "anuj-pandey"
   location: "Maharashtra, India"

@@ -18,26 +18,32 @@ Let me share what actually works.
 
 <div class="section">
 
-The biggest mistake I see is teams asking: **"How can we use AI?"** instead of **"What problem are we trying to solve?"**
+<p>The biggest mistake I see is teams asking: <strong>"How can we use AI?"</strong> instead of <strong>"What problem are we trying to solve?"</strong></p>
 
-### ❌ What Doesn't Work:
-- "Let's throw machine learning at this data and see what happens"
-- "Everyone's using neural networks, we should too"
-- "AI will figure out what's important"
+<h3>❌ What Doesn't Work:</h3>
+<ul>
+<li>"Let's throw machine learning at this data and see what happens"</li>
+<li>"Everyone's using neural networks, we should too"</li>
+<li>"AI will figure out what's important"</li>
+</ul>
 
-### ✅ What Works:
-- "We have a specific quality issue that costs us $X annually"
-- "Can we predict this outcome 6 hours earlier to enable intervention?"
-- "Which of these 50 factors actually matter for this critical attribute?"
+<h3>✅ What Works:</h3>
+<ul>
+<li>"We have a specific quality issue that costs us $X annually"</li>
+<li>"Can we predict this outcome 6 hours earlier to enable intervention?"</li>
+<li>"Which of these 50 factors actually matter for this critical attribute?"</li>
+</ul>
 
-**Real example from my work:**  
-We were seeing occasional batch failures in insulin production. Instead of immediately jumping to ML, we first:
-1. Defined the problem precisely (specific quality attributes failing)
-2. Understood the process biology and chemistry
-3. Identified potential root causes through domain knowledge
-4. *Then* used ML to find patterns in the data
+<p><strong>Real example from my work:</strong><br>
+We were seeing occasional batch failures in insulin production. Instead of immediately jumping to ML, we first:</p>
+<ol>
+<li>Defined the problem precisely (specific quality attributes failing)</li>
+<li>Understood the process biology and chemistry</li>
+<li>Identified potential root causes through domain knowledge</li>
+<li><em>Then</em> used ML to find patterns in the data</li>
+</ol>
 
-This approach led to a successful predictive model. Previous attempts that started with "let's try AI" had failed.
+<p>This approach led to a successful predictive model. Previous attempts that started with "let's try AI" had failed.</p>
 
 </div>
 
@@ -45,28 +51,32 @@ This approach led to a successful predictive model. Previous attempts that start
 
 <div class="section">
 
-Here's a hard truth: **AI without domain knowledge is just expensive pattern matching.**
+<p>Here's a hard truth: <strong>AI without domain knowledge is just expensive pattern matching.</strong></p>
 
-In bioprocessing, successful AI applications require understanding:
-- The biological and chemical principles at work
-- Process dynamics and time scales
-- Known failure modes and their signatures
-- What's physically possible vs. impossible
-- Regulatory and quality requirements
+<p>In bioprocessing, successful AI applications require understanding:</p>
+<ul>
+<li>The biological and chemical principles at work</li>
+<li>Process dynamics and time scales</li>
+<li>Known failure modes and their signatures</li>
+<li>What's physically possible vs. impossible</li>
+<li>Regulatory and quality requirements</li>
+</ul>
 
-### Why This Matters:
+<h3>Why This Matters:</h3>
 
-**Example 1: Feature Engineering**  
-A black-box ML approach might use raw sensor data. But understanding cell metabolism lets you create meaningful features like:
-- Glucose consumption rate
-- Oxygen uptake rate
-- Lactate production profiles
-- Metabolic quotients
+<p><strong>Example 1: Feature Engineering</strong><br>
+A black-box ML approach might use raw sensor data. But understanding cell metabolism lets you create meaningful features like:</p>
+<ul>
+<li>Glucose consumption rate</li>
+<li>Oxygen uptake rate</li>
+<li>Lactate production profiles</li>
+<li>Metabolic quotients</li>
+</ul>
 
-These engineered features, informed by biology, often outperform dozens of raw sensor readings.
+<p>These engineered features, informed by biology, often outperform dozens of raw sensor readings.</p>
 
-**Example 2: Model Validation**  
-If your ML model predicts something that violates basic biological principles, you know something's wrong. Without domain knowledge, you might deploy a model that works on historical data but fails catastrophically in production.
+<p><strong>Example 2: Model Validation</strong><br>
+If your ML model predicts something that violates basic biological principles, you know something's wrong. Without domain knowledge, you might deploy a model that works on historical data but fails catastrophically in production.</p>
 
 </div>
 

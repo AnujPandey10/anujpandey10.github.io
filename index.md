@@ -22,25 +22,21 @@ title: Home
 <div class="project-grid">
 
 <div class="project-card">
-  <div class="icon">📊</div>
   <h3>Process Optimization</h3>
   <p>Applying Design of Experiments (DOE) and statistical modeling to optimize pharmaceutical manufacturing processes, improve yields, and reduce variability.</p>
 </div>
 
 <div class="project-card">
-  <div class="icon">🤖</div>
   <h3>Predictive Analytics</h3>
   <p>Building machine learning models for quality prediction, process monitoring, and early detection of manufacturing issues before they become problems.</p>
 </div>
 
 <div class="project-card">
-  <div class="icon">🔬</div>
   <h3>Bioprocess Intelligence</h3>
   <p>Developing AI-powered solutions for insulin and peptide manufacturing, combining process understanding with advanced analytics.</p>
 </div>
 
 <div class="project-card">
-  <div class="icon">💡</div>
   <h3>Knowledge Systems</h3>
   <p>Creating RAG-based systems and AI tools that make manufacturing knowledge more accessible and actionable for teams.</p>
 </div>
@@ -53,48 +49,56 @@ title: Home
 
 <div class="section">
 
-I work at the intersection of **Data Science, AI, and Pharmaceutical R&D**, bringing together:
+<p>I work at the intersection of <strong>Data Science, AI, and Pharmaceutical R&D</strong>, bringing together:</p>
 
 <div class="skills-grid">
 
 <div class="skill-category">
 
-**🔬 Computational Biology**
-- Protein Engineering & Enzyme Optimization
-- Molecular Docking & Simulations
-- Biosimilar Development
-- Bioprocess Optimization
+<h3>🔬 Computational Biology</h3>
+<ul>
+<li>Protein Engineering & Enzyme Optimization</li>
+<li>Molecular Docking & Simulations</li>
+<li>Biosimilar Development</li>
+<li>Bioprocess Optimization</li>
+</ul>
 
 </div>
 
 <div class="skill-category">
 
-**📊 Statistical Methods**
-- Design of Experiments (DOE)
-- Process Optimization
-- Data Analytics
-- Quality by Design (QbD)
+<h3>📊 Statistical Methods</h3>
+<ul>
+<li>Design of Experiments (DOE)</li>
+<li>Process Optimization</li>
+<li>Data Analytics</li>
+<li>Quality by Design (QbD)</li>
+</ul>
 
 </div>
 
 <div class="skill-category">
 
-**🤖 AI & Machine Learning**
-- Large Language Models (LLMs)
-- Deep Learning (DNN/CNN/LSTM)
-- MLOps & Model Deployment
-- Explainable AI (SHAP, LIME)
-- Physics-Informed Neural Networks (PINNs)
+<h3>🤖 AI & Machine Learning</h3>
+<ul>
+<li>Large Language Models (LLMs)</li>
+<li>Deep Learning (DNN/CNN/LSTM)</li>
+<li>MLOps & Model Deployment</li>
+<li>Explainable AI (SHAP, LIME)</li>
+<li>Physics-Informed Neural Networks (PINNs)</li>
+</ul>
 
 </div>
 
 <div class="skill-category">
 
-**💻 Technical Tools**
-- Python, R, SQL, C#, ASP.NET
-- Machine Learning Frameworks
-- JMP, SIMCA (Statistical Software)
-- RAG Systems, Vector Databases
+<h3>💻 Technical Tools</h3>
+<ul>
+<li>Python, R, SQL, C#, ASP.NET</li>
+<li>Machine Learning Frameworks</li>
+<li>JMP, SIMCA (Statistical Software)</li>
+<li>RAG Systems, Vector Databases</li>
+</ul>
 
 </div>
 
@@ -110,21 +114,21 @@ I work at the intersection of **Data Science, AI, and Pharmaceutical R&D**, brin
 
 <div class="card">
 
-### [Why DOE Still Matters in the Age of Machine Learning](/blog/2025/01/01/why-doe-still-matters/)
+<h3><a href="/blog/2025/01/01/why-doe-still-matters/">Why DOE Still Matters in the Age of Machine Learning</a></h3>
 
 <p class="post-meta">January 1, 2025</p>
 
-Machine learning has become popular in bioprocess optimization, but **DOE remains irreplaceable** in regulated and complex biological systems. Learn why controlled experimentation and interpretability are crucial in pharmaceutical manufacturing.
+<p>Machine learning has become popular in bioprocess optimization, but <strong>DOE remains irreplaceable</strong> in regulated and complex biological systems. Learn why controlled experimentation and interpretability are crucial in pharmaceutical manufacturing.</p>
 
 </div>
 
 <div class="card">
 
-### [Using AI in Bioprocessing: What Actually Works](/blog/2025/01/05/ai-in-bioprocessing/)
+<h3><a href="/blog/2025/01/05/ai-in-bioprocessing/">Using AI in Bioprocessing: What Actually Works</a></h3>
 
 <p class="post-meta">January 5, 2025</p>
 
-AI in bioprocessing is most effective when combined with domain knowledge, controlled experimentation, and good data practices. Discover practical insights from real-world pharmaceutical applications.
+<p>AI in bioprocessing is most effective when combined with domain knowledge, controlled experimentation, and good data practices. Discover practical insights from real-world pharmaceutical applications.</p>
 
 </div>
 
@@ -141,7 +145,6 @@ AI in bioprocessing is most effective when combined with domain knowledge, contr
 <div class="project-grid">
 
 <div class="project-card">
-  <div class="icon">🔬</div>
   <h3>Insulin Manufacturing Optimization</h3>
   <p>Improved yield and consistency in insulin production through DOE, statistical modeling, and multivariate analysis.</p>
   <div class="tech-stack">
@@ -153,7 +156,6 @@ AI in bioprocessing is most effective when combined with domain knowledge, contr
 </div>
 
 <div class="project-card">
-  <div class="icon">🤖</div>
   <h3>Local LLM for Manufacturing</h3>
   <p>Intelligent querying system for SOPs and process documents using Retrieval-Augmented Generation (RAG).</p>
   <div class="tech-stack">
@@ -165,7 +167,6 @@ AI in bioprocessing is most effective when combined with domain knowledge, contr
 </div>
 
 <div class="project-card">
-  <div class="icon">📊</div>
   <h3>PK/PD Prediction Model</h3>
   <p>Predicting likelihood of passing PK/PD studies using particle size data and GLM analysis.</p>
   <div class="tech-stack">
@@ -190,25 +191,25 @@ AI in bioprocessing is most effective when combined with domain knowledge, contr
 
 <div class="card">
 
-### Process Understanding First
+<h3>Process Understanding First</h3>
 
-I believe the most powerful solutions come from **combining deep process knowledge with advanced analytics**. I don't just apply algorithms—I understand the biology, chemistry, and engineering behind each problem.
-
-</div>
-
-<div class="card">
-
-### Interpretability Matters
-
-In regulated pharmaceutical environments, **explainability is not optional**. Every model I build can be understood, validated, and explained to auditors and stakeholders.
+<p>I believe the most powerful solutions come from <strong>combining deep process knowledge with advanced analytics</strong>. I don't just apply algorithms—I understand the biology, chemistry, and engineering behind each problem.</p>
 
 </div>
 
 <div class="card">
 
-### Practical Impact
+<h3>Interpretability Matters</h3>
 
-I focus on solutions that **actually work in production**, can be maintained by manufacturing teams, and provide clear business value—not just impressive technical demonstrations.
+<p>In regulated pharmaceutical environments, <strong>explainability is not optional</strong>. Every model I build can be understood, validated, and explained to auditors and stakeholders.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Practical Impact</h3>
+
+<p>I focus on solutions that <strong>actually work in production</strong>, can be maintained by manufacturing teams, and provide clear business value—not just impressive technical demonstrations.</p>
 
 </div>
 
