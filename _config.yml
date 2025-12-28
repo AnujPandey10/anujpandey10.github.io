@@ -1,5 +1,4 @@
-include_cached: false
-minimal_mistakes_skin: "default"
+
 
 title: "Anuj Pandey"
 email: anujpandey@email.com
@@ -10,12 +9,11 @@ description: >
 baseurl: ""
 url: "https://anuj-pandey.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 
 author:
