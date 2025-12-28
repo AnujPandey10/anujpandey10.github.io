@@ -3,9 +3,13 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Experience"
+    url: /experience/
+  - title: "Skills"
+    url: /skills/
   - title: "Projects"
     url: /projects/
-  - title: "Writing"
+  - title: "Blog"
     url: /blog/
   - title: "Contact"
     url: /contact/
