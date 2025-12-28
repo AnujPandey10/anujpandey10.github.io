@@ -1,3 +1,6 @@
+include_cached: false
+minimal_mistakes_skin: "default"
+
 title: "Anuj Pandey"
 email: anujpandey@email.com
 description: >
